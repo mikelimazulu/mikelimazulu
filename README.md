@@ -7,6 +7,7 @@
 <a href="https://mikelizotte.ca"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=firefox&logoColor=white"></img></a>
 <a href="https://tryhackme.com/p/neoh"><img width="100px" height="40px"src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></img></a>
 <a href="https://github.com/mikelimazulu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+<a href="https://www.youtube.com/channel/UCXkFn1WxK_Ei3MQyfDv5SFg"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 </p>
 <br>
 
@@ -22,6 +23,14 @@
 <div align="center">	
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img></a>
 <a href="#"><img src="https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell&logoColor=white"></img></a>
+<br>
+<br>
+
+<h2 align="center">Certs</h2>
+<div align="center">	
+  <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900">AZ900</a></li>
+  <li><a href="https://elearnsecurity.com/product/ejpt-certification/">eJPT</img></a></li>
+  <li><a href="https://elearnsecurity.com/product/ewpt-certification/">eWPT</img></a></li>
 <br>
 <br>
 
