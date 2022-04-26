@@ -5,7 +5,6 @@
 <h2 align="center">About Me</h2>
 <p align="center">
 <a href="https://mikelizotte.ca"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=firefox&logoColor=white"></img></a>
-<a href="https://tryhackme.com/p/neoh"><img width="100px" height="40px"src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></img></a>
 <a href="https://github.com/mikelimazulu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UCXkFn1WxK_Ei3MQyfDv5SFg"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 </p>
